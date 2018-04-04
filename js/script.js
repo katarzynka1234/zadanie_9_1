@@ -4,7 +4,7 @@ function getTriangleArea(a, h) {
 		console.log('Nieprawidłowe dane');
 	}
 	else {
-		return a*h/2
+		return a*h/2;
 	}
 }
 
